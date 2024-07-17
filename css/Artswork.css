@@ -171,7 +171,7 @@ ul li:hover ul.dropdawn {
 }
 .content{
     height: 350px;
-    background-image: url('/images/art.img/avannnnt.jpg');
+    background-image: url('../images/art.img/avannnnt.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;

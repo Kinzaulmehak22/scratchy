@@ -213,7 +213,7 @@ h3 {
 
 .content{
     height: 350px;
-    background-image: url('/images/brush.img/77.jpg');
+    background-image: url('../images/brush.img/77.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

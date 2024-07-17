@@ -210,7 +210,7 @@ h3{
 
 .content{
     height: 350px;
-    background-image: url('/images/logo.img/8...jpg');
+    background-image: url('../images/logo.img/8...jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;

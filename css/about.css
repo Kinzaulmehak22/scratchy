@@ -169,7 +169,7 @@ ul li:hover ul.dropdawn {
 /* End navbar CSS  */
 .contents{
     height: 370px;
-    background-image: url('/images/about/About\ us.png');
+    background-image: url('../images/about/About\ us.png');
     background-repeat: no-repeat;
     background-size:100% 100%;
     background-position: center;

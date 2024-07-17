@@ -153,7 +153,7 @@ ul li:hover ul.dropdawn {
 /* End navbar CSS  */
 .content{
     height: 350px;
-    background-image: url('/images/images/RENEE-PARIS-PPF-CALLIGRAPHIE-5.jpg');
+    background-image: url('../images/images/RENEE-PARIS-PPF-CALLIGRAPHIE-5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

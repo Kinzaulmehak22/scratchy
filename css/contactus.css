@@ -224,7 +224,7 @@ ul li:hover ul.dropdawn {
 }
  .message{
     border:5px black double;
-    background-image: url('/images/contact/contact1.jpg');
+    background-image: url('../images/contact/contact1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 20px 0px;

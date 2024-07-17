@@ -212,7 +212,7 @@ h3{
 
 .content{
     height: 350px;
-    background-image: url('/images/hand.img/12...webp');
+    background-image: url('../images/hand.img/12...webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

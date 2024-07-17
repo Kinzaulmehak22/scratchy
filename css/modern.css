@@ -178,7 +178,7 @@ ul li:hover ul.dropdawn {
 
 .content{
     height: 350px;
-    background-image: url('/images/modern.img/pen-4089989_640.jpg');
+    background-image: url('../images/modern.img/pen-4089989_640.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:100%;
